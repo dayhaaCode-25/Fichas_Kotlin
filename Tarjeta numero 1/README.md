@@ -14,7 +14,7 @@ Sabemos que en Kotlin, las variables son esenciales para almacenar y manipular d
 * **Float:** Números decimales con menor precisión que Double.
 * **Boolean:** Valores lógicos (verdadero o falso, `true` o `false`).
 * **Char:** Un solo carácter (ejemplo: 'a', '?', '5').
-* **String:** Cadenas de texto (ejemplo: "Hola", "Kotlin").
+* **String:** Cadenas de texto (ejemplo: "Hola", "Soy", "Dayhana").
 
 ## Declaración de Variables:
 
