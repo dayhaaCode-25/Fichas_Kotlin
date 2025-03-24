@@ -1,11 +1,11 @@
-#### ESTRUCTURA 1  
+#### ESTRUCTURA NÚMERO 1  
 # MANEJO DE VARIABLES  
 
 ---
 
 1. **Describa el por qué y para qué se utiliza.**
 
-En Kotlin, las variables son esenciales para almacenar y manipular datos. Imagínalas como contenedores que guardan información. Cada variable tiene un nombre único y un tipo de dato que define qué tipo de información puede almacenar.
+Sabemos que en Kotlin, las variables son esenciales para almacenar y manipular datos. Las podemos imaginar como contenedores que guardan una información. Cada variable tiene un nombre único y un tipo de dato que define qué tipo de información puede almacenar.
 
 ## Tipos de Datos Comunes:
 
@@ -19,7 +19,7 @@ En Kotlin, las variables son esenciales para almacenar y manipular datos. Imagí
 ## Declaración de Variables:
 
 * **val:** Se usa para declarar variables inmutables, es decir, su valor no puede cambiar después de la asignación inicial.
-* **var:** Se usa para declarar variables mutables, cuyo valor puede modificarse a lo largo del programa.
+* **var:** Se usa para declarar variables mutables, el cual el valor puede modificarse a lo largo del programa.
    
 2. **Genere un ejemplo internamente en el recuadro.**  
 
