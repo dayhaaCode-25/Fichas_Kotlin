@@ -25,7 +25,7 @@ En Kotlin, las variables son esenciales para almacenar y manipular datos. Imagí
 
    - Utilice un editor de código para lograrlo.  
 
-🔗 **[LINK DE CODIGO](https://pl.kotl.in/4TTYlFiaX?theme=darcula&readOnly=true)** 
+🔗 **[LINK DE CODIGO](https://pl.kotl.in/fBUVnHIkM?theme=darcula&readOnly=true)** 
 
 ### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
 - Genere el link del audio y el link de GitHub.  
