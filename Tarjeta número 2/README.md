@@ -28,7 +28,7 @@ Operador	Descripción	Ejemplo
 ## 2. Genere un ejemplo internamente en el recuadro.  
 - Utilice un editor de código para lograrlo.  
 
-🔗 **[LINK DE CODIGO]()**  
+🔗 **[LINK DE CODIGO](https://pl.kotl.in/EMhr6h7oE?theme=darcula&readOnly=true)**  
 
 ### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
 - Genere el link del audio y el link de GitHub.  
