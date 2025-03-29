@@ -54,7 +54,7 @@ Los operadores matemáticos y lógicos son herramientas fundamentales en Kotlin 
 - Genere el link del audio y el link de GitHub.  
 
 🔗 **[LINK DEL AUDIO]()**  
-🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**.
+🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/8a027957fa6f1e16d712df854f79d48c30ec5322/Tarjeta%20n%C3%BAmero%202/Operadores%20Math%20L%C3%B3gicos.PNG)**.
 
 **ALGORITMO CREADO Y EXPLICACION DE COMO FUNCIONA LA ESTRUCTURA**
 ```kotlin
