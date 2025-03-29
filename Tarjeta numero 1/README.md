@@ -25,10 +25,40 @@ Sabemos que en Kotlin, las variables son esenciales para almacenar y manipular d
 
    - Utilice un editor de código para lograrlo.  
 
-🔗 **[LINK DE CODIGO](https://pl.kotl.in/fBUVnHIkM?theme=darcula&readOnly=true)** 
+🔗 **[LINK DE CODIGO DEL EJEMPLO](https://pl.kotl.in/GIx__N5YU?theme=darcula&readOnly=true)** 
 
-### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
+### CREAR ALGORITMO PROPIO Y EXPLIQUELO PASO A PASO 
 - Genere el link del audio y el link de GitHub.  
 
 🔗 **[LINK DEL AUDIO]()**  
-🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/3d74c4b8d735354c3b6793fa62aaa2cf02d59655/Tarjeta%20numero%201/Manejo%20de%20Variables..PNG)**
+🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**.
+
+**ALGORITMO CREADO Y EXPLICACION DE COMO FUNCIONA LA ESTRUCTURA**
+```kotlin
+// EJERCICIO CREADO EN KOTLIN
+fun main() {
+    // Nuestro codigo creado sera sobre la declaración de variables relacionadas con un estudiante.
+    val nombreEstudiante: String = "Santiago Lopera" // 'val' porque el nombre no cambiará
+    var calificacion: Double = 8.5 // 'var' porque la calificación puede actualizarse
+    val esEstudianteMatriculado: Boolean = true // 'val' porque el estado de matriculación no cambia
+
+    // Imprimir información inicial
+    println("Nombre del estudiante: $nombreEstudiante")
+    println("Calificación inicial: $calificacion")
+    println("¿Estudiante matriculado?: $esEstudianteMatriculado")
+
+    // Simular una actualización de calificación
+    calificacion = 9.2 // Modificamos la calificación
+
+    // Imprimir la calificación actualizada
+    println("Calificación actualizada: $calificacion")
+
+    // ejemplo de variable entera y de caracter
+    val edadEstudiante: Int = 18
+    val grupoEstudiante: Char = 'A'
+
+    //Impresión de variables enteras y de caracter.
+    println("Edad del estudiante: $edadEstudiante")
+    println("Grupo del estudiante: $grupoEstudiante")
+}
+```
