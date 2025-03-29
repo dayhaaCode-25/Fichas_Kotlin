@@ -48,7 +48,7 @@ Los operadores matemáticos y lógicos son herramientas fundamentales en Kotlin 
 ## 2. Genere un ejemplo internamente en el recuadro.  
 - Utilice un editor de código para lograrlo.  
 
-🔗 **[LINK DE CÓDIGO](https://pl.kotl.in/EMhr6h7oE?theme=darcula&readOnly=true)**  
+🔗 **[LINK DE CÓDIGO DEL EJEMPLO](https://pl.kotl.in/EMhr6h7oE?theme=darcula&readOnly=true)**  
 
 ### CREAR ALGORITMO PROPIO Y EXPLIQUELO PASO A PASO 
 - Genere el link del audio y el link de GitHub.  
