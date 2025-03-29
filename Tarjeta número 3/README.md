@@ -44,9 +44,11 @@ Las funciones de impresión, como `println()`, te permiten mostrar texto y otros
 
 🔗 **[LINK DE CÓDIGO](https://pl.kotl.in/NMnOrcWbm?theme=darcula&readOnly=true)**  
 
-
+### CREAR ALGORITMO PROPIO Y EXPLIQUELO PASO A PASO 
+- Genere el link del audio y el link de GitHub.
+  
 🔗 **[LINK DEL AUDIO]()**  
-🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**.
+🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/40267ba4cb8bf14b4e52c6269cc8a179f2533750/Tarjeta%20n%C3%BAmero%203/Funciones%20de%20Strings%20y%20Printing.PNG)**.
 
 **ALGORITMO CREADO Y EXPLICACION DE COMO FUNCIONA LA ESTRUCTURA**
 ```kotlin
