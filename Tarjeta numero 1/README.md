@@ -31,7 +31,7 @@ Sabemos que en Kotlin, las variables son esenciales para almacenar y manipular d
 - Genere el link del audio y el link de GitHub.  
 
 🔗 **[LINK DEL AUDIO]()**  
-🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**.
+🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/39c4e4b7160b0ca620b97ee262ca7a49f6fb212a/Tarjeta%20numero%201/MANEJO%20DE%20VARIABLES.PNG)**.
 
 **ALGORITMO CREADO Y EXPLICACION DE COMO FUNCIONA LA ESTRUCTURA**
 ```kotlin
