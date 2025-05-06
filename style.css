@@ -1,0 +1,51 @@
+body {
+  font-family: "Arial", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  background-color: #f4f4f4; /* Color de fondo de la página */
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333; /* Color del título */
+  text-align: center;
+}
+
+.fichas-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px; /* Espacio entre las fichas */
+  width: 100%;
+  max-width: 800px; /* Ancho máximo del contenedor */
+  text-align: center;
+}
+
+.ficha {
+  background-color: #83beda; /* Color de fondo de las fichas */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 20px;
+  text-align: center; /* Centrar el texto horizontalmente */
+  transition: transform 0.3s, box-shadow 0.3s; /* Transición suave */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  display: flex; /* Usar flexbox para centrar contenido */
+  align-items: center; /* Centrar verticalmente */
+  justify-content: center; /* Centrar horizontalmente */
+  height: 100px; /* Altura fija para que el contenido se centre verticalmente */
+}
+
+.ficha:hover {
+  transform: translateY(-5px); /* Efecto de elevación al pasar el mouse */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Sombra más intensa al pasar el mouse */
+}
+
+a {
+  text-decoration: none;
+  color: #007bff; /* Color del texto del enlace */
+  font-weight: bold; /* Texto en negrita */
+}
+
+a:hover {
+  color: #0056b3; /* Color del enlace al pasar el mouse */
+}
