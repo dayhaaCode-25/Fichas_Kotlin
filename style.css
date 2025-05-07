@@ -1,51 +1,116 @@
-body {
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+   body {
+    height: 100%;
+    font-family: "Arial", sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h1 {
+    padding: 20px 0;
+    color: #354cb3;
+    text-align: center;
+    * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ body {
+  height: 100%;
   font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin: 20px;
-  background-color: #f4f4f4; /* Color de fondo de la página */
 }
 
 h1 {
-  margin-bottom: 20px;
-  color: #333; /* Color del título */
+  padding: 20px 0;
+  color: #333;
   text-align: center;
+  flex-shrink: 0; 
 }
 
 .fichas-container {
+  flex: 1; 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 20px; /* Espacio entre las fichas */
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 10px;
+  padding: 10px 20px;
   width: 100%;
-  max-width: 800px; /* Ancho máximo del contenedor */
-  text-align: center;
+  overflow-y: auto; 
 }
 
 .ficha {
-  background-color: #83beda; /* Color de fondo de las fichas */
-  border-radius: 10px; /* Bordes redondeados */
-  padding: 20px;
-  text-align: center; /* Centrar el texto horizontalmente */
-  transition: transform 0.3s, box-shadow 0.3s; /* Transición suave */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
-  display: flex; /* Usar flexbox para centrar contenido */
-  align-items: center; /* Centrar verticalmente */
-  justify-content: center; /* Centrar horizontalmente */
-  height: 100px; /* Altura fija para que el contenido se centre verticalmente */
+  background-color: #83beda;
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1 / 1; 
 }
 
 .ficha:hover {
-  transform: translateY(-5px); /* Efecto de elevación al pasar el mouse */
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Sombra más intensa al pasar el mouse */
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
 a {
   text-decoration: none;
-  color: #007bff; /* Color del texto del enlace */
-  font-weight: bold; /* Texto en negrita */
+  color: #007bff;
+  font-weight: bold;
+  text-align: center;
 }
 
 a:hover {
-  color: #0056b3; /* Color del enlace al pasar el mouse */
+  color: #0056b3;
 }
+
+  }
+  
+  .fichas-container {
+    flex: 1; 
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); 
+    gap: 10px;
+    padding: 10px 20px;
+    width: 100%;
+    overflow-y: auto;
+  }
+  
+  .ficha {
+    background-color: #83beda;
+    border-radius: 10px;
+    padding: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 1 / 1; 
+  }
+  
+  .ficha:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  a:hover {
+    color: #cad1d8;
+  }
