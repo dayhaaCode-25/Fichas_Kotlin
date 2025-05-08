@@ -16,7 +16,7 @@ En Kotlin, las collections son estructuras que agrupan datos, como List (listas 
 ### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
 - Genere el link del audio y el link de GitHub.  
 
-🔗 **[LINK DEL AUDIO]()**  
+🔗 **[LINK DEL AUDIO](https://dayhaaCode-25.github.io/Fichas_Kotlin/Tarjeta%20n%C3%BAmero%206/WhatsApp%20Audio%202025-05-08%20at%201.48.40%20PM.ogg)**  
 🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**
 
 ![image](https://github.com/user-attachments/assets/a90f05c2-7e6f-4c8f-9a11-2aefcf2fc290)
