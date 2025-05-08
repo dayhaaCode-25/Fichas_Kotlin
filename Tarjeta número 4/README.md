@@ -36,7 +36,56 @@ El **Control de Flujo** en programación permite **dirigir la ejecución de un p
 ---
 
 ## 2. Genere un ejemplo internamente en el recuadro.  
-- Utilice un editor de código para lograrlo.  
+- Utilice un editor de código para lograrlo.
 
-🔗 **[LINK DE CÓDIGO](https://pl.kotl.in/dLtTjMH1P?readOnly=true&theme=darcula)**  
+- // EJEMPLO #1 EN CÓDIGO KOTLIN - IF
+fun main() {
+    val edad = 20
+    if(edad>=18){
+        println("Eres mayor de edad")
+    }
+
+}
+
+
+// EJEMPLO #2 EN CÓDIGO KOTLIN - ELSE
+fun main(){
+   val edad = 16
+   if (edad >= 18){
+       println("Eres mayor de edad")
+   } else {
+       println("Eres menor de edad")
+   }
+}
+
+// EJEMPLO #3 EN CÓDIGO KOTLIN - ELSE IF
+fun main(){
+   val puntuacion = 90
+   if (puntuacion >= 90) {
+       println("Excelente")
+   } else if (puntuacion >= 80){
+       println("Muy bien")
+   } else if (puntuacion >= 70) {
+       println("Bien")
+       } else {
+           println("A mejorar")
+   }
+}
+
+
+// EJEMPLO #4 EN CÓDIGO KOTLIN - WHEN
+fun main() {
+    val numero = 3
+
+    when (numero) {
+        1 -> println("El número es uno.")
+        2 -> println("El número es dos.")
+        3 -> println("El número es tres.")
+        in 4..10 -> println("El número está entre 4 y 10.")
+        else -> println("El número no está en la lista.")
+    }
+}
+
+🔗 **[LINK DE CÓDIGO](https://pl.kotl.in/dLtTjMH1P?readOnly=true&theme=darcula)**
+
 
