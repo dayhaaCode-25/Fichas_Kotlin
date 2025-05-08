@@ -41,3 +41,88 @@ Las **estructuras de decisión y control** permiten tomar **decisiones dentro de
 
 🔗 **[LINK DE CÓDIGO](https://pl.kotl.in/8X8c83CB0?theme=darcula&readOnly=true)**  
 
+**Ejemplo - Condicionales (if-else):**
+```kotlin
+// EJEMPLO EN CÓDIGO KOTLIN
+fun verificarEdad(edad: Int) {
+    if (edad >= 18) {
+        println("Puede votar")
+    } else {
+        println("No puede votar")
+    }
+}
+fun main() {
+    verificarEdad(20) // Imprime "Puede votar"
+    verificarEdad(15) // Imprime "No puede votar"
+}
+```
+**Ejemplo - Bucles (for, while):**
+```kotlin
+// EJEMPLO EN CÓDIGO KOTLIN
+fun imprimirNumeros() {
+    // Bucle for
+    for (i in 1..10) {
+        println(i)
+    }
+
+    // Bucle while con entrada simulada.
+    val respuestas = listOf("no", "no", "si") // Simulamos la entrada del usuario.
+    var i = 0;
+    var respuesta = "";
+    while (respuesta != "si") {
+        println("¿Desea continuar? (si/no)")
+        respuesta = respuestas[i];
+        println(respuesta);
+        i++;
+    }
+}
+
+fun main() {
+    imprimirNumeros()
+}
+```
+**Ejemplo - Sentencias when:**
+```kotlin
+// EJEMPLO EN CÓDIGO KOTLIN
+fun diaDeLaSemana(dia: Int) {
+    when (dia) {
+        1 -> println("Lunes")
+        2 -> println("Martes")
+        3 -> println("Miércoles")
+        4 -> println("Jueves")
+        5 -> println("Viernes")
+        6 -> println("Sábado")
+        7 -> println("Domingo")
+        else -> println("Día inválido")
+    }
+}
+
+fun main() {
+    diaDeLaSemana(3) // Imprime "Miércoles"
+    diaDeLaSemana(8) // Imprime "Día inválido"
+}
+```
+**Ejemplo - Códigos de error:**
+```kotlin
+// EJEMPLO EN CÓDIGO KOTLIN
+fun encontrarElemento(lista: List<Int>, elemento: Int): Int {
+    for (i in lista.indices) {
+        if (lista[i] == elemento) {
+            return i // Devuelve el índice si se encuentra el elemento
+        }
+    }
+    return -1 // Devuelve -1 si el elemento no se encuentra
+}
+
+fun main() {
+    val lista = listOf(1, 2, 3, 4, 5)
+    val indice = encontrarElemento(lista, 3)
+    if (indice != -1) {
+        println("Elemento encontrado en el índice $indice")
+    } else {
+        println("Elemento no encontrado")
+    }
+}
+```
+
+
