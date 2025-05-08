@@ -30,7 +30,7 @@ Sabemos que en Kotlin, las variables son esenciales para almacenar y manipular d
 ### CREAR ALGORITMO PROPIO Y EXPLIQUELO PASO A PASO 
 - Genere el link del audio y el link de GitHub.  
 
-🔗 **[LINK DEL AUDIO](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/0a3bfd91a7da506cfb97afd07d3dd84beb9d20cc/Tarjeta%20numero%201/ficha1.mp4)**  
+🔗 **[LINK DEL AUDIO](https://dayhaaCode-25.github.io/Fichas_Kotlin/Tarjeta%20numero%201/ficha1.mp4)**  
 🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/39c4e4b7160b0ca620b97ee262ca7a49f6fb212a/Tarjeta%20numero%201/MANEJO%20DE%20VARIABLES.PNG)**.
 
 **ALGORITMO CREADO Y EXPLICACION DE COMO FUNCIONA LA ESTRUCTURA**
