@@ -38,6 +38,7 @@ El **Control de Flujo** en programación permite **dirigir la ejecución de un p
 ## 2. Genere un ejemplo internamente en el recuadro.  
 - Utilice un editor de código para lograrlo.
 - **[LINK DE CÓDIGO](https://pl.kotl.in/dLtTjMH1P?readOnly=true&theme=darcula)**
+- 🔗 **[LINK DEL AUDIO]()**  
 
 ```kotlin
 // EJEMPLO #1 EN CÓDIGO KOTLIN - IF
