@@ -16,7 +16,7 @@ La programación orientada a objetos (POO) es un paradigma que organiza el códi
 ### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
 - Genere el link del audio y el link de GitHub.  
 
-🔗 **[LINK DEL AUDIO]()**  
+🔗 **[LINK DEL AUDIO](https://dayhaaCode-25.github.io/Fichas_Kotlin/Tarjeta%20n%C3%BAmero%2010/WhatsApp%20Audio%202025-05-08%20at%201.49.26%20PM.ogg)**  
 🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**
 
 ![image](https://github.com/user-attachments/assets/af3c6190-dd82-419b-8b6f-f7137a32d8b1)
