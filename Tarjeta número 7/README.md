@@ -16,7 +16,9 @@ En Kotlin, los bucles o loopers permiten repetir instrucciones varias veces. El 
 ### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
 - Genere el link del audio y el link de GitHub.  
 
-🔗 **[LINK DEL AUDIO]()**  
+🔗 **[LINK DEL AUDIO](https://dayhaaCode-25.github.io/Fichas_Kotlin/Tarjeta%20n%C3%BAmero%207/WhatsApp%20Audio%202025-05-08%20at%201.48.51%20PM.ogg
+
+)**  
 🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**
 
 ![image](https://github.com/user-attachments/assets/d0e57eb8-d590-4add-86bb-e292a77663b7)
