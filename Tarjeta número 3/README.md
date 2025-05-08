@@ -47,7 +47,7 @@ Las funciones de impresión, como `println()`, te permiten mostrar texto y otros
 ### CREAR ALGORITMO PROPIO Y EXPLIQUELO PASO A PASO 
 - Genere el link del audio y el link de GitHub.
   
-🔗 **[LINK DEL AUDIO]()**  
+🔗 **[LINK DEL AUDIO](https://dayhaaCode-25.github.io/Fichas_Kotlin/Tarjeta%20número%203/ficha%203.mp4)**  
 🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB](https://github.com/dayhaaCode-25/Fichas_Kotlin/blob/40267ba4cb8bf14b4e52c6269cc8a179f2533750/Tarjeta%20n%C3%BAmero%203/Funciones%20de%20Strings%20y%20Printing.PNG)**.
 
 **ALGORITMO CREADO Y EXPLICACION DE COMO FUNCIONA LA ESTRUCTURA**
