@@ -4,17 +4,20 @@
 ---
 
 1. **Describa el por qué y para qué se utiliza.**
-
----
    
-2. **Genere un ejemplo internamente en el recuadro.**  
+En Kotlin, los bucles o loopers permiten repetir instrucciones varias veces. El bucle “for” se usa para recorrer listas, rangos o arrays; por ejemplo, for (i in 1..5) imprime los números del 1 al 5. El while ejecuta un bloque mientras una condición sea verdadera, y el “do...while” hace lo mismo, pero garantiza que el bloque se ejecute al menos una vez. Además, se pueden usar break para salir del bucle antes de tiempo o continue para saltar a la siguiente iteración. Estos bucles son esenciales para procesar datos repetitivos como listas o entradas del usuario.
+
+3. **Genere un ejemplo internamente en el recuadro.**  
 
    - Utilice un editor de código para lograrlo.  
 
-🔗 **[LINK DE CODIGO]()** 
+🔗 **https://pl.kotl.in/5dDmhQott** 
 
 ### EN EL LISTADO COMPARTIDO BUSQUE EL ALGORITMO QUE CORRESPONDA Y EXPLÍQUELO PASO A PASO  
 - Genere el link del audio y el link de GitHub.  
 
 🔗 **[LINK DEL AUDIO]()**  
 🔗 **[LINK CÓDIGO PROBADO POR US Y GUARDADO EN GITHUB]()**
+
+![image](https://github.com/user-attachments/assets/d0e57eb8-d590-4add-86bb-e292a77663b7)
+
