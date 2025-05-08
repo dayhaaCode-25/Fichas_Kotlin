@@ -40,7 +40,7 @@ Las **estructuras de decisión y control** permiten tomar **decisiones dentro de
 - Utilice un editor de código para lograrlo.  
 
 🔗 **[LINK DE CÓDIGO](https://pl.kotl.in/8X8c83CB0?theme=darcula&readOnly=true)**  
-🔗 **[LINK DEL AUDIO]()**  
+🔗 **[LINK DEL AUDIO](https://dayhaaCode-25.github.io/Fichas_Kotlin/Tarjeta%20número%205/ficha%205%20.mp4)**  
 
 **Ejemplo - Condicionales (if-else):**
 ```kotlin
